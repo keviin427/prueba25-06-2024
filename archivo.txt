@@ -1,1 +1,2 @@
 Este es el contenido inicial del archivo
+Esto es editado desde GitHub
